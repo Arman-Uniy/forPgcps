@@ -4,6 +4,8 @@ Fork the repostiory and then change the link down below.
 
 ``https://render.com/deploy?repo=https://github.com/[YOUR-USERNAME-GOES-HERE]/interstellar``
 
+# OR
+
 - Fork this repository.
 
 - Then go to [Render](https://render.com)
