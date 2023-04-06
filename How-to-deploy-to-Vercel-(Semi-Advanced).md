@@ -1,6 +1,6 @@
 ## How to deploy on Vercel
 
-#Simple
+# Simple
 
 ## Step 1
 If you haven't already, create a [Vercel](https://vercel.com) account. Sign into your Vercel account, go to your [dashboard](https://vercel.com/dashboard) and click **Add New**. Then, select **Project** and click on "**Import 3rd-party git repository.**"
