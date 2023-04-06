@@ -27,5 +27,5 @@ Once the deployment has finished, go to the deployments dashboard and then go to
 Scroll down until you find the "**Build & Development Settings**" panel. Flip the override switch on "**Output Directory**" and set the input box to "static". Press "**Save**".
 
 ## That's it!
-You now have a functioning Vercel link, good job!
+You now have a functioning link, good job!
 
