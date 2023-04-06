@@ -1,7 +1,7 @@
 ## How to deploy on Vercel
 
-## 
-Step 1. Fork this repo
+## Step 1
+Fork this repo
 
 ## Step 2
  Make a Vercel Account
