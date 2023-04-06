@@ -9,7 +9,8 @@ Step 3. Click Add New, Then Click Project
 
 Step 4. Connect your github account or click the Interstellar repo underneath "Import Git Repository"
 
-Step 5. ## Configuration
+Step 5. 
+## Configuration
 
 - Under "Framework Preset", click "Other"
 - Under "Build and Output Settings" click "Output Directory", click Override and then type in "static"
