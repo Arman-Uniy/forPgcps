@@ -21,7 +21,8 @@ You now have a functioning Vercel link, good job!
 # Semi-Advanced
 
 ## Step 1
-Fork this repo
+Fork the repo
+- https://github.com/interstellarnetwork/interstellar-vercel
 
 ## Step 2
  Make a Vercel Account
